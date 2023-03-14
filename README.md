@@ -10,6 +10,11 @@ git clone https://github.com/paraskalyan/Sign-Language-Detection.git
 ```console
 pip install opencv-python
 ```
+* CVZone
+```console
+pip install cvzone
+```
+
 * Mediapipe
 ```console
 pip install mediapipe
