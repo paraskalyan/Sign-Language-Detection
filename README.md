@@ -40,3 +40,4 @@ pip install pygame
 **3. Now, Use your favorite code editor to run the module.py file**
 
 ### That's it mate. It was so easy 😄
+**Click on the link to download the dataset:-** https://www.dropbox.com/s/tlztdyb3qitoko4/Data2.zip?dl=0
