@@ -1,6 +1,6 @@
 # Sign Language Detection using Python
 ### How to setup this project locally on your machine?
-1. **Download .zip file or clone this repo using the command**
+**1. Download .zip file or clone this repo using the command**
 ```console
 git clone https://github.com/paraskalyan/Sign-Language-Detection.git
 ```
