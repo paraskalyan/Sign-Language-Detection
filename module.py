@@ -11,11 +11,8 @@ import math
 from PIL import Image, ImageTk
 from gtts import gTTS
 from io import BytesIO
-from cvzone.SelfiSegmentationModule import SelfiSegmentation
-
 import pygame
 
-segmentor = SelfiSegmentation()
 class App:
     def mainFun(self):
         self.win = tk.Tk()
